@@ -1,0 +1,28 @@
+{
+  "name": "gerrit",
+  "version": "0.0.2",
+  "homepage": "https://github.com/Kadajett/Gerrit",
+  "authors": [
+    "kadajett <jeremy.ryan.stover@gmail.com>"
+  ],
+  "description": "A new front end for the Gerrit Project",
+  "main": "/app/index.php",
+  "keywords": [
+    "Gerrit",
+    "google",
+    "code",
+    "testing"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  }
+}
